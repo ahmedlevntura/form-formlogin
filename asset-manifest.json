@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/form-formlogin/static/css/main.e44114cf.css",
+    "main.js": "/form-formlogin/static/js/main.91420db7.js",
+    "static/js/787.2534c488.chunk.js": "/form-formlogin/static/js/787.2534c488.chunk.js",
+    "static/media/fa-solid-900.ttf": "/form-formlogin/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/form-formlogin/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/form-formlogin/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/form-formlogin/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/form-formlogin/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/logo1 (1).png": "/form-formlogin/static/media/logo1 (1).4417330275f78faa31c3.png",
+    "static/media/logo3.png": "/form-formlogin/static/media/logo3.494a4a914b5471b41f3e.png",
+    "static/media/fa-regular-400.woff2": "/form-formlogin/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/logo2.png": "/form-formlogin/static/media/logo2.6554473016d32b343f02.png",
+    "static/media/logo1.svg": "/form-formlogin/static/media/logo1.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/form-formlogin/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/form-formlogin/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/logo.svg": "/form-formlogin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/form-formlogin/index.html",
+    "main.e44114cf.css.map": "/form-formlogin/static/css/main.e44114cf.css.map",
+    "main.91420db7.js.map": "/form-formlogin/static/js/main.91420db7.js.map",
+    "787.2534c488.chunk.js.map": "/form-formlogin/static/js/787.2534c488.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e44114cf.css",
+    "static/js/main.91420db7.js"
+  ]
+}
